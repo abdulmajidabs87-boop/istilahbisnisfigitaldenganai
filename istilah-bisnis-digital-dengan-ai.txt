@@ -4,6 +4,15 @@ Istilah Bisnis Digital dan AI
 
 
 
+Pendahuluan
+Perkembangan teknologi digital yang semakin pesat telah membawa perubahan besar dalam berbagai aspek kehidupan, termasuk dalam dunia bisnis. Saat ini, kegiatan bisnis tidak hanya dilakukan secara konvensional, tetapi juga memanfaatkan internet, media sosial, marketplace, dan berbagai platform digital untuk memasarkan produk, melayani pelanggan, serta meningkatkan efisiensi operasional. Selain itu, kehadiran Artificial Intelligence (AI) atau kecerdasan buatan semakin memperluas peluang dalam dunia bisnis melalui otomatisasi pekerjaan, analisis data, pembuatan konten, dan peningkatan kualitas pelayanan kepada pelanggan.
+
+Seiring dengan perkembangan tersebut, pemahaman mengenai istilah-istilah bisnis digital dan AI menjadi hal yang penting, khususnya bagi mahasiswa Digital Bisnis. Pengetahuan ini dapat membantu mahasiswa memahami konsep, fungsi, serta penerapan teknologi dalam kegiatan bisnis modern. Beberapa istilah yang perlu dipahami antara lain Digital Marketing, E-Commerce, Machine Learning, Generative AI, Prompt Engineering, dan Data Analytics.
+
+Namun, penggunaan teknologi digital dan AI juga harus disertai dengan literasi digital yang baik. Pengguna perlu mampu mengevaluasi kebenaran informasi, menjaga privasi data, memahami etika penggunaan AI, serta menyadari bahwa hasil yang diberikan oleh AI tidak selalu akurat. Oleh karena itu, teknologi harus digunakan secara bijak, kritis, dan bertanggung jawab.
+
+Melalui artikel ini, penulis akan membahas berbagai istilah yang berkaitan dengan bisnis digital dan AI beserta pengertian serta contoh penerapannya. Diharapkan artikel ini dapat menambah wawasan pembaca, khususnya mahasiswa, agar lebih memahami perkembangan teknologi digital dan mampu memanfaatkannya untuk mendukung kegiatan bisnis di era modern.
+
 1. Istilah dasar bisnis digital
 Memahami konsep bisnis yang dijalankan menggunakan teknologi digital.
 
@@ -460,5 +469,4 @@ Fact-Checking
 Istilah-istilah tersebut membantu kamu memahami bukan hanya cara menggunakan AI, tetapi juga cara menilai hasilnya, menjaga keamanan data, dan menerapkannya secara bertanggung jawab dalam bisnis.
 
 Kesimpulan: Bisnis digital memanfaatkan teknologi untuk menjalankan dan mengembangkan usaha, sedangkan AI dapat membantu proses seperti pembuatan konten, analisis data, pelayanan pelanggan, dan otomatisasi. Namun, hasil AI tetap perlu diperiksa sebelum digunakan untuk mengambil keputusan bisnis.
-
 
