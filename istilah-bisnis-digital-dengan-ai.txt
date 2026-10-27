@@ -1,1 +1,464 @@
+ 
+
+Istilah Bisnis Digital dan AI
+
+
+
+1. Istilah dasar bisnis digital
+Memahami konsep bisnis yang dijalankan menggunakan teknologi digital.
+
+No.
+
+Istilah
+
+Pengertian
+
+1
+
+Digital Business
+
+Bisnis yang memanfaatkan teknologi digital dalam kegiatan usahanya.
+
+2
+
+E-Commerce
+
+Kegiatan jual beli barang atau jasa melalui internet.
+
+3
+
+Marketplace
+
+Platform yang mempertemukan penjual dan pembeli secara online.
+
+4
+
+Digital Marketing
+
+Pemasaran produk melalui media digital dan internet.
+
+5
+
+Startup
+
+Perusahaan rintisan yang biasanya mengembangkan ide atau model bisnis inovatif.
+
+6
+
+Business Model
+
+Cara sebuah bisnis menciptakan dan memperoleh pendapatan.
+
+7
+
+Revenue
+
+Pendapatan yang diperoleh dari penjualan atau kegiatan usaha.
+
+8
+
+Profit
+
+Keuntungan setelah pendapatan dikurangi biaya.
+
+9
+
+Target Market
+
+Kelompok konsumen yang menjadi sasaran bisnis.
+
+10
+
+Customer
+
+Pelanggan atau orang yang membeli produk maupun jasa.
+
+      
+2. Istilah Artificial Intelligence (AI)
+
+
+
+No.
+
+Istilah
+
+Pengertian
+
+11
+
+Artificial Intelligence (AI)
+
+Teknologi yang memungkinkan komputer melakukan tugas yang membutuhkan kemampuan kecerdasan manusia.
+
+12
+
+Machine Learning (ML)
+
+Cabang AI yang memungkinkan sistem mempelajari pola dari data.
+
+13
+
+Deep Learning
+
+Metode pembelajaran mesin yang menggunakan jaringan saraf berlapis.
+
+14
+
+Generative AI
+
+AI yang dapat menghasilkan konten baru, seperti teks, gambar, suara, dan video.
+
+15
+
+Chatbot
+
+Program yang berinteraksi dengan pengguna melalui percakapan.
+
+16
+
+Natural Language Processing (NLP)
+
+Teknologi yang membantu komputer memahami dan mengolah bahasa manusia.
+
+17
+
+Prompt
+
+Instruksi atau perintah yang diberikan kepada AI.
+
+18
+
+Prompt Engineering
+
+Proses menyusun instruksi agar AI menghasilkan jawaban yang sesuai kebutuhan.
+
+19
+
+AI Automation
+
+Pemanfaatan AI untuk mengotomatiskan tugas atau proses kerja.
+
+20
+
+AI Hallucination
+
+Kondisi ketika AI menghasilkan informasi yang keliru atau tidak didukung fakta.                    
+
+    
+3. Istilah pemasaran digital
+No.
+
+Istilah
+
+Pengertian
+
+21
+
+SEO (Search Engine Optimization)
+
+Upaya meningkatkan kemunculan situs di hasil pencarian secara organik.
+
+22
+
+SEM (Search Engine Marketing)
+
+Pemasaran melalui mesin pencari, sering kali menggunakan iklan berbayar.
+
+23
+
+Social Media Marketing
+
+Pemasaran melalui media sosial seperti Instagram, TikTok, dan Facebook.
+
+24
+
+Content Marketing
+
+Strategi pemasaran dengan membuat konten yang bermanfaat atau menarik.
+
+25
+
+Copywriting
+
+Penulisan teks yang bertujuan menarik perhatian dan mendorong tindakan konsumen.
+
+26
+
+Branding
+
+Proses membangun identitas dan citra suatu merek.
+
+27
+
+Engagement
+
+Tingkat interaksi pengguna dengan konten, seperti komentar, suka, dan bagikan.
+
+28
+
+Conversion Rate
+
+Persentase pengguna yang melakukan tindakan yang ditargetkan.
+
+29
+
+CTA (Call to Action)
+
+Ajakan agar audiens melakukan tindakan, misalnya membeli atau mendaftar.
+
+30
+
+Affiliate Marketing
+
+Pemasaran produk pihak lain untuk memperoleh komisi dari transaksi yang memenuhi ketentuan program.
+
+4. Istilah data dan teknologi digital
+No.
+
+Istilah
+
+Pengertian
+
+31
+
+Big Data
+
+Kumpulan data berukuran besar dan kompleks yang membutuhkan metode khusus untuk diolah.
+
+32
+
+Data Analytics
+
+Proses menganalisis data untuk menemukan pola dan membantu pengambilan keputusan.
+
+33
+
+Cloud Computing
+
+Penggunaan sumber daya komputasi melalui internet.
+
+34
+
+Internet of Things (IoT)
+
+Jaringan perangkat fisik yang terhubung dan dapat bertukar data.
+
+35
+
+Cybersecurity
+
+Upaya melindungi sistem, jaringan, dan data dari ancaman digital.
+
+36
+
+Data Privacy
+
+Perlindungan informasi pribadi dan pengaturan bagaimana data tersebut digunakan.
+
+37
+
+Digital Footprint
+
+Jejak aktivitas seseorang yang tertinggal di lingkungan digital.
+
+38
+
+Algorithm
+
+Serangkaian langkah atau aturan untuk menyelesaikan tugas atau memproses data.
+
+39
+
+API (Application Programming Interface)
+
+Antarmuka yang memungkinkan aplikasi atau sistem saling berkomunikasi.
+
+40
+
+Cloud Storage
+
+Penyimpanan data pada layanan yang dapat diakses melalui internet.
+
+5. Istilah strategi dan analisis bisnis digital
+No.
+
+Istilah
+
+Pengertian
+
+41
+
+KPI (Key Performance Indicator)
+
+Indikator untuk mengukur pencapaian tujuan bisnis.
+
+42
+
+ROI (Return on Investment)
+
+Ukuran hasil atau keuntungan relatif terhadap investasi yang dikeluarkan.
+
+43
+
+CRM (Customer Relationship Management)
+
+Strategi dan sistem untuk mengelola hubungan dengan pelanggan.
+
+44
+
+Supply Chain
+
+Rangkaian proses dari pengadaan bahan hingga produk sampai ke konsumen.
+
+45
+
+User Experience (UX)
+
+Pengalaman pengguna saat berinteraksi dengan produk atau layanan.
+
+46
+
+User Interface (UI)
+
+Tampilan dan elemen antarmuka yang digunakan pengguna untuk berinteraksi dengan sistem.
+
+47
+
+Personalization
+
+Penyesuaian layanan atau konten berdasarkan kebutuhan dan preferensi pengguna.
+
+48
+
+Recommendation System
+
+Sistem yang memberikan rekomendasi berdasarkan data dan pola tertentu.
+
+49
+
+Digital Transformation
+
+Perubahan proses bisnis dengan memanfaatkan teknologi digital.
+
+50
+
+Business Intelligence (BI)
+
+Proses dan teknologi untuk mengolah data menjadi informasi yang mendukung keputusan bisnis.
+
+6. Istilah etika dan literasi digital dengan AI
+No.
+
+Istilah
+
+Pengertian
+
+51
+
+Digital Literacy
+
+Kemampuan menggunakan, memahami, mengevaluasi, dan memanfaatkan teknologi digital secara efektif.
+
+52
+
+AI Ethics
+
+Prinsip moral dalam pengembangan dan penggunaan AI.
+
+53
+
+Bias AI
+
+Kecenderungan hasil AI menjadi tidak adil akibat data atau desain sistem yang bias.
+
+54
+
+Fact-Checking
+
+Proses memeriksa kebenaran suatu informasi melalui sumber yang dapat dipercaya.
+
+55
+
+Misinformation
+
+Informasi salah yang disebarkan tanpa harus memiliki niat menipu.
+
+56
+
+Disinformation
+
+Informasi salah yang sengaja dibuat atau disebarkan untuk menyesatkan.
+
+57
+
+Deepfake
+
+Konten gambar, audio, atau video sintetis yang dibuat atau dimanipulasi sehingga dapat menyerupai kenyataan.
+
+58
+
+Intellectual Property
+
+Hak atas karya atau hasil kreasi intelektual, sesuai ketentuan hukum yang berlaku.
+
+59
+
+Responsible AI
+
+Pengembangan dan penggunaan AI secara bertanggung jawab, aman, dan memperhatikan dampaknya.
+
+60
+
+Human Oversight
+
+Pengawasan manusia terhadap proses atau keputusan yang melibatkan AI.
+
+
+7. Contoh penerapan istilah dalam bisnis digital
+
+Contoh 1 — Toko online
+
+Seorang penjual menggunakan marketplace untuk menjual produk, menerapkan SEO agar produknya mudah ditemukan, dan menggunakan chatbot AI untuk menjawab pertanyaan pelanggan.
+
+
+Contoh 2 — Digital marketing
+
+Pemilik usaha menggunakan Generative AI untuk membuat ide konten, prompt engineering untuk mengarahkan hasil AI, dan data analytics untuk mengevaluasi performa iklan.
+
+
+Contoh 3 — Analisis bisnis
+
+Perusahaan menggunakan machine learning untuk memprediksi permintaan produk, CRM untuk mengelola pelanggan, dan KPI untuk mengukur pencapaian penjualan.
+
+
+
+
+
+8. Istilah yang paling penting untuk dipelajari terlebih dahulu
+Untuk mata kuliah Literasi Digital dengan AI, saya menyarankan kamu memprioritaskan sepuluh istilah ini:
+
+Artificial Intelligence (AI)
+
+Generative AI
+
+Prompt Engineering
+
+Digital Literacy
+
+Digital Business
+
+Digital Marketing
+
+Machine Learning
+
+Data Privacy
+
+AI Ethics
+
+Fact-Checking
+
+Istilah-istilah tersebut membantu kamu memahami bukan hanya cara menggunakan AI, tetapi juga cara menilai hasilnya, menjaga keamanan data, dan menerapkannya secara bertanggung jawab dalam bisnis.
+
+Kesimpulan: Bisnis digital memanfaatkan teknologi untuk menjalankan dan mengembangkan usaha, sedangkan AI dapat membantu proses seperti pembuatan konten, analisis data, pelayanan pelanggan, dan otomatisasi. Namun, hasil AI tetap perlu diperiksa sebelum digunakan untuk mengambil keputusan bisnis.
+
 
